@@ -1,0 +1,33 @@
+{
+    "name": "Jrx -coding - l1 - position",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "pxt-arcade-grid": "github:robo-technical-group/pxt-arcade-grid#v1.0.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.8.22",
+        "tag": "v1.8.22",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/6017af228c87817006b555668c65933bf3cbff4c",
+        "target": "1.8.22",
+        "pxt": "7.4.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
